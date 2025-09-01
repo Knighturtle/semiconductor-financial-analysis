@@ -39,15 +39,17 @@ The study focuses on three key indicators — **revenue, net income, and profit 
 python -m venv .venv
 .venv\Scripts\activate   # Windows
 source .venv/bin/activate   # Mac/Linux
+```
 
 3.Install dependencies:
 ```bash
 pip install -r requirements.txt
+```
 
 4.Run the Jupyter notebook:
 ```bash
 jupyter notebook notebooks/semiconductor_analysis.ipynb
-
+```
 ---
 📈 Methods
 
