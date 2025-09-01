@@ -57,8 +57,4 @@ Forecasts are statistical and do not incorporate exogenous market risks such as 
 **Author**  
 This project was fully implemented by **Knight Lin** to demonstrate skills in data analysis, forecasting, and visualization.
 
----
-
-**Author**
-This project was fully implemented by **Knight Lin** to demonstrate skills in data analysis, forecasting, and visualization.
 
