@@ -33,7 +33,18 @@ The study focuses on three key indicators — **revenue, net income, and profit 
    ```bash
    git clone https://github.com/Knightrutle/semiconductor-financial-analysis.git
    cd semiconductor-financial-analysis
+   
+2. Create and activate virtual environment:
+```bash
+python -m venv .venv
+.venv\Scripts\activate   # Windows
+source .venv/bin/activate   # Mac/Linux
 
+3.Install dependencies:
+pip install -r requirements.txt
+
+4.Run the Jupyter notebook:
+jupyter notebook notebooks/semiconductor_analysis.ipynb
 
 ---
 📈 Methods
