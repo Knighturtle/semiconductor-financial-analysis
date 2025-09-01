@@ -41,9 +41,11 @@ python -m venv .venv
 source .venv/bin/activate   # Mac/Linux
 
 3.Install dependencies:
+```bash
 pip install -r requirements.txt
 
 4.Run the Jupyter notebook:
+```bash
 jupyter notebook notebooks/semiconductor_analysis.ipynb
 
 ---
