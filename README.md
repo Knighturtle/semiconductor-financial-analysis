@@ -43,6 +43,12 @@ Forecasts are statistical and do not incorporate exogenous market risks such as 
 
 ## Example Output
 
+### Profit Margin (2018–2025)
+![Profit Margin (2018–2025)](figures/profit_margin_2018_2025.png)
+
+### Revenue (2018–2025)
+![Revenue (2018–2025)](figures/revenue_2018_2025.png)
+
 **Profit Margin Forecast (2026–2028, 80% PI)**
 ![Profit Margin Forecast](figures/pm_forecast.png)
 
@@ -53,6 +59,17 @@ Forecasts are statistical and do not incorporate exogenous market risks such as 
 ![FY2025 Profit Margin](figures/pm_fy2025_bar.png)
 
 ---
+##  Data Source
+
+Financial data (Revenue, Net Income) was manually retrieved from **SEC EDGAR 10-K filings (2018–2024)** for:
+
+- **NVIDIA**: https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
+
+- **AMD**: https://www.sec.gov/Archives/edgar/data/2488/000000248825000039/amd-20250415.htm
+
+- **Intel**: https://www.sec.gov/Archives/edgar/data/50863/000005086325000129/intc-20250822.htm
+
+
 
 **Author**  
 This project was fully implemented by **Knight Lin** to demonstrate skills in data analysis, forecasting, and visualization.
