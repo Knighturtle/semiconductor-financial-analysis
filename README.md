@@ -43,11 +43,7 @@ Forecasts are statistical and do not incorporate exogenous market risks such as 
 
 ## Example Output
 
-### Profit Margin (2018–2025)
-![Profit Margin (2018–2025)](figures/profit_margin_2018_2025.png)
 
-### Revenue (2018–2025)
-![Revenue (2018–2025)](figures/revenue_2018_2025.png)
 
 **Profit Margin Forecast (2026–2028, 80% PI)**
 ![Profit Margin Forecast](figures/pm_forecast.png)
