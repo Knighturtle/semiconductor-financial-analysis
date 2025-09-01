@@ -82,9 +82,6 @@ jupyter notebook notebooks/semiconductor_analysis.ipynb
 ### Revenue Forecast (2026–2028, 80% PI)**
 ![Revenue Forecast](figures/revenue_forecast.png)
 
-### FY2025 Profit Margin (Bar)**
-![FY2025 Profit Margin](figures/pm_fy2025_bar.png)
-
 ---
 ##  Data Source
 
