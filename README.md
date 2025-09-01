@@ -96,9 +96,9 @@ Financial data (Revenue, Net Income) was manually retrieved from **SEC EDGAR 10-
 
 - **Intel**: https://www.sec.gov/Archives/edgar/data/50863/000005086325000129/intc-20250822.htm
 
+
 ⚠️ Limitations
  - Forecasts are based on simple statistical models; no exogenous variables (capex, supply chain, geopolitics) are included.
-
  - Net income volatility may cause wide prediction intervals.
 
 👤 Author
