@@ -33,7 +33,6 @@ The study focuses on three key indicators — **revenue, net income, and profit 
    ```bash
    git clone https://github.com/Knightrutle/semiconductor-financial-analysis.git
    cd semiconductor-financial-analysis
-
 ```
 
 ---
