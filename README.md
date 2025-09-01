@@ -61,7 +61,7 @@ Forecasts are statistical and do not incorporate exogenous market risks such as 
 ---
 ##  Data Source
 
-Financial data (Revenue, Net Income) was manually retrieved from **SEC EDGAR 10-K filings (2018–2024)** for:
+Financial data (Revenue, Net Income) was manually retrieved from **SEC EDGAR 10-K filings (2018–2025)** for:
 
 - **NVIDIA**: https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm
 
