@@ -77,13 +77,13 @@ jupyter notebook notebooks/semiconductor_analysis.ipynb
 ### Profit Margin (FY2025)
 ![alt text](figs/cmp_profit_margin_FY2025.png)
 
-**Profit Margin Forecast (2026–2028, 80% PI)**
+### Profit Margin Forecast (2026–2028, 80% PI)**
 ![Profit Margin Forecast](figures/pm_forecast.png)
 
-**Revenue Forecast (2026–2028, 80% PI)**
+### Revenue Forecast (2026–2028, 80% PI)**
 ![Revenue Forecast](figures/revenue_forecast.png)
 
-**FY2025 Profit Margin (Bar)**
+### FY2025 Profit Margin (Bar)**
 ![FY2025 Profit Margin](figures/pm_fy2025_bar.png)
 
 ---
@@ -97,9 +97,13 @@ Financial data (Revenue, Net Income) was manually retrieved from **SEC EDGAR 10-
 
 - **Intel**: https://www.sec.gov/Archives/edgar/data/50863/000005086325000129/intc-20250822.htm
 
+⚠️ Limitations
+ - Forecasts are based on simple statistical models; no exogenous variables (capex, supply chain, geopolitics) are included.
 
+ - Net income volatility may cause wide prediction intervals.
 
-**Author**  
-This project was fully implemented by **Knight Lin** to demonstrate skills in data analysis, forecasting, and visualization.
+👤 Author
+ - Developed by Knight Lin, aspiring CPA and AI/Data Analytics specialist.
+ - Focus areas: financial analysis, forecasting, and visualization with Python.
 
 
