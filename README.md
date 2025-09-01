@@ -54,17 +54,17 @@ jupyter notebook notebooks/semiconductor_analysis.ipynb
 ---
 📈 Methods
 
-Revenue forecasts: log-linear regression with residual-based prediction intervals.
+-Revenue forecasts: log-linear regression with residual-based prediction intervals.
 
-Profit margin forecasts: robust linear trends or trailing averages, clipped to [-50%, 80%].
+-Profit margin forecasts: robust linear trends or trailing averages, clipped to [-50%, 80%].
 
-Net income forecasts: product of revenue and profit margin forecasts.
+-Net income forecasts: product of revenue and profit margin forecasts.
 
 📝 Notes
 
-CAGR is computed only when both endpoints are positive; otherwise, it is reported as N/A.
+-CAGR is computed only when both endpoints are positive; otherwise, it is reported as N/A.
 
-Forecasts are statistical and do not incorporate exogenous market risks such as supply chain disruptions, capital expenditures, or geopolitical shocks.
+-Forecasts are statistical and do not incorporate exogenous market risks such as supply chain disruptions, capital expenditures, or geopolitical shocks.
 
 ## Example Output
 
